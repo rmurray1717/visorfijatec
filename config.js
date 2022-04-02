@@ -25,7 +25,7 @@ module.exports = {
         //callback_url: process.env.FORGE_CALLBACK_URL
         
         client_id: "T1RCJ10NNSQKxxG2iq5kEDq1xAxhrZdR",
-        client_secret: "rvADh8ieFgv7Gnmg",
+        client_secret: "N73f04d8511bc446",
         callback_url: "http://localhost:3000/api/forge/oauth/callback"
     },
     scopes: {
